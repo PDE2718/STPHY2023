@@ -1,0 +1,69 @@
+% \usepackage[utf8]{inputenc}
+\usepackage{fontenc}
+\usepackage{lmodern}
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont={Noto Serif SC}, ItalicFont={Noto Serif SC}]{Noto Serif SC}
+\setCJKsansfont{Noto Sans SC}
+\setmonofont{JuliaMono}
+
+\usepackage{amsfonts,amssymb,unicode-math}
+% \usepackage{mathtools}
+
+%%%%%%%%%%%%%%%% 设置边距
+\usepackage{geometry}
+\geometry{a4paper,left=2.54cm,right=2.54cm,top=3.17cm,bottom=3.17cm}
+
+%%%%%%%%%%%%%%%% 章节标题对齐
+% \usepackage{sectsty} % 左对齐章节标题
+% \sectionfont{\bfseries\Large\raggedright}
+
+%%%%%%%%%%%%%%%% 常用的环境
+\usepackage{graphicx,caption,booktabs,float,fancyhdr,enumerate}
+
+% 算法包
+% \usepackage{algorithm2e}
+\usepackage{listings}
+% \usepackage{minted}
+
+% 超链接
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{doi}
+
+% 换页 自定义了一个命令。\newpage很多时候不管用
+\newcommand*{\forcednewpage}{\newpage\null\newpage}
+
+% 引用
+\usepackage[english]{babel}
+\usepackage[%
+style=phys,%
+articletitle=false,biblabel=brackets,%
+chaptertitle=false,pageranges=false%
+]{biblatex}
+
+%% 添加引用bib
+\addbibresource{ref.bib}
+
+% 颜色
+\usepackage{xcolor}
+\definecolor{codebgc}{HTML}{F9F4FC}
+\usepackage[most]{tcolorbox}
+% \colorlet{LightLavender}{Lavender!40!}
+\tcbset{on line, 
+        boxsep=3pt, left=0pt, right=0pt, top=0pt, bottom=0pt,
+        colframe=white, colback=codebgc,  
+        highlight math style={enhanced}
+        }
+
+% inline 代码
+\newcommand{\ic}[1]{\tcbox{
+\texttt{\textcolor{purple}{\footnotesize{#1}}} 
+}}
+
+% \pagestyle{fancy}
+% \lhead{}
+% \chead{}
+% \rhead{\rightmark}
+% \fancyhf{}
+
+

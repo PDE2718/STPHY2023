@@ -1,0 +1,362 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{mann2013dynamics}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c67845d05167e31c99957b8a4252e94a}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fce092fbda035545d2f7a88f8fff913a}{%
+           family={Faria},
+           familyi={F\bibinitperiod},
+           given={Jolyon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f5c336c449556932c4bddf286d99ed0f}{%
+           family={Sumpter},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima JT},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{25bc0f44a45b2f43b203a4faf11e1538}
+      \strng{fullhash}{c42752f5c48e1e29d4c1e8ce4276b88d}
+      \strng{bibnamehash}{c42752f5c48e1e29d4c1e8ce4276b88d}
+      \strng{authorbibnamehash}{c42752f5c48e1e29d4c1e8ce4276b88d}
+      \strng{authornamehash}{25bc0f44a45b2f43b203a4faf11e1538}
+      \strng{authorfullhash}{c42752f5c48e1e29d4c1e8ce4276b88d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Society interface}
+      \field{number}{85}
+      \field{title}{The dynamics of audience applause}
+      \field{volume}{10}
+      \field{year}{2013}
+      \field{pages}{20130466}
+      \range{pages}{1}
+    \endentry
+    \entry{PhysRevE.82.051921}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6373d46134a517a734421dba05cee70c}{%
+           family={Tomé},
+           familyi={T\bibinitperiod},
+           given={Tânia},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d1f7c3eb1bd219a7742d528bd5611d2f}{%
+           family={Ziff},
+           familyi={Z\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{669a85aed9199e5c1953019391786e80}
+      \strng{fullhash}{669a85aed9199e5c1953019391786e80}
+      \strng{bibnamehash}{669a85aed9199e5c1953019391786e80}
+      \strng{authorbibnamehash}{669a85aed9199e5c1953019391786e80}
+      \strng{authornamehash}{669a85aed9199e5c1953019391786e80}
+      \strng{authorfullhash}{669a85aed9199e5c1953019391786e80}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev. E}
+      \field{month}{11}
+      \field{title}{Critical behavior of the susceptible-infected-recovered model on a square lattice}
+      \field{volume}{82}
+      \field{year}{2010}
+      \field{pages}{051921}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevE.82.051921
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.82.051921
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.82.051921
+      \endverb
+    \endentry
+    \entry{appPRE}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b5bc0de2ea6a3fc2fe5310a29dc07f11}{%
+           family={Néda},
+           familyi={N\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=dc2d51e123b39226f95a11491feff656}{%
+           family={Ravasz},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6ff3ec138429f2256e549ddfd9eac966}{%
+           family={Vicsek},
+           familyi={V\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e632d035ba75c9069ebbef1f6774b10b}{%
+           family={Brechet},
+           familyi={B\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9d9e97f70c4fb27df81a7d25f58aa128}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{1283542ba92c7b79eb7b71b6c61ed4be}
+      \strng{fullhash}{b3de46e9d3941ea2a1fe14d28d69007f}
+      \strng{bibnamehash}{b3de46e9d3941ea2a1fe14d28d69007f}
+      \strng{authorbibnamehash}{b3de46e9d3941ea2a1fe14d28d69007f}
+      \strng{authornamehash}{1283542ba92c7b79eb7b71b6c61ed4be}
+      \strng{authorfullhash}{b3de46e9d3941ea2a1fe14d28d69007f}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Phys. Rev. E}
+      \field{month}{6}
+      \field{title}{Physics of the rhythmic applause}
+      \field{volume}{61}
+      \field{year}{2000}
+      \field{pages}{6987\bibrangedash 6992}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1103/PhysRevE.61.6987
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.61.6987
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevE.61.6987
+      \endverb
+    \endentry
+    \entry{neda2000sound}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2d19b8711c3b6262199a1afd28adb708}{%
+           family={Néda},
+           familyi={N\bibinitperiod},
+           given={Zoltán},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e296e22941e0890f9b47e920a9e2d426}{%
+           family={Ravasz},
+           familyi={R\bibinitperiod},
+           given={Erzsébet},
+           giveni={E\bibinitperiod}}}%
+        {{hash=18fc14b6dc4c2b4fcf83a9d1f3948f9c}{%
+           family={Brechet},
+           familyi={B\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6ff33ab4371a3804415d624c6171ef14}{%
+           family={Vicsek},
+           familyi={V\bibinitperiod},
+           given={Tamás},
+           giveni={T\bibinitperiod}}}%
+        {{hash=953467ea1b8e328ccd298c4b59a43b26}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={A-L},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{623d030e26ea944eeaea77d973519726}
+      \strng{fullhash}{d882c53828627a8d4e5af2de0691abdb}
+      \strng{bibnamehash}{d882c53828627a8d4e5af2de0691abdb}
+      \strng{authorbibnamehash}{d882c53828627a8d4e5af2de0691abdb}
+      \strng{authornamehash}{623d030e26ea944eeaea77d973519726}
+      \strng{authorfullhash}{d882c53828627a8d4e5af2de0691abdb}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6772}
+      \field{title}{The sound of many hands clapping}
+      \field{volume}{403}
+      \field{year}{2000}
+      \field{pages}{849\bibrangedash 850}
+      \range{pages}{2}
+    \endentry
+    \entry{kuramoto1975self}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=33cc8eda7edf802aa364c0d9e695b43c}{%
+           family={Kuramoto},
+           familyi={K\bibinitperiod},
+           given={Yoshiki},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \strng{fullhash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \strng{bibnamehash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \strng{authorbibnamehash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \strng{authornamehash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \strng{authorfullhash}{33cc8eda7edf802aa364c0d9e695b43c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Symposium on Mathematical Problems in Theoretical Physics: January 23--29, 1975, Kyoto University, Kyoto/Japan}
+      \field{title}{Self-entrainment of a population of coupled non-linear oscillators}
+      \field{year}{1975}
+      \field{pages}{420\bibrangedash 422}
+      \range{pages}{3}
+    \endentry
+    \entry{CMT}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0e84c20f7a37bec0798925116a01de8}{%
+           family={Haus},
+           familyi={H\bibinitperiod},
+           given={Hermann\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=753646d5325096e3ca44cead5efbf5b5}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Weiping},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{62cdedfd9a307b2385de667871d92f9a}
+      \strng{fullhash}{62cdedfd9a307b2385de667871d92f9a}
+      \strng{bibnamehash}{62cdedfd9a307b2385de667871d92f9a}
+      \strng{authorbibnamehash}{62cdedfd9a307b2385de667871d92f9a}
+      \strng{authornamehash}{62cdedfd9a307b2385de667871d92f9a}
+      \strng{authorfullhash}{62cdedfd9a307b2385de667871d92f9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{10}
+      \field{title}{Coupled-mode theory}
+      \field{volume}{79}
+      \field{year}{1991}
+      \field{pages}{1505\bibrangedash 1518}
+      \range{pages}{14}
+    \endentry
+    \entry{julialang}{article}{}
+      \name{author}{4}{}{%
+        {{hash=17e68031e06f57a7e83caeb4e0aed827}{%
+           family={Bezanson},
+           familyi={B\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{hash=01a6ca61fcd12a3a071ec49304df57f8}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bca7c93f55e669f71c4ff95e68ac9538}{%
+           family={Karpinski},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=de802ff42d9c902868c57a332dbac5e0}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Viral\bibnamedelima B},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{07e3452af3652a626dc1d02355fda942}
+      \strng{fullhash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{bibnamehash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{authorbibnamehash}{651af5e2dc744eabe31cd448eb05d640}
+      \strng{authornamehash}{07e3452af3652a626dc1d02355fda942}
+      \strng{authorfullhash}{651af5e2dc744eabe31cd448eb05d640}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM review}
+      \field{number}{1}
+      \field{title}{Julia: A fresh approach to numerical computing}
+      \field{volume}{59}
+      \field{year}{2017}
+      \field{pages}{65\bibrangedash 98}
+      \range{pages}{34}
+    \endentry
+    \entry{DifferentialEquations}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c454e867cc51042dbb2c4a284006599f}{%
+           family={Rackauckas},
+           familyi={R\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5f45b8ea167da2d5685f5d8f36094dea}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ubiquity Press}%
+      }
+      \strng{namehash}{72532c9bb73703d2c2ce1424659b680f}
+      \strng{fullhash}{72532c9bb73703d2c2ce1424659b680f}
+      \strng{bibnamehash}{72532c9bb73703d2c2ce1424659b680f}
+      \strng{authorbibnamehash}{72532c9bb73703d2c2ce1424659b680f}
+      \strng{authornamehash}{72532c9bb73703d2c2ce1424659b680f}
+      \strng{authorfullhash}{72532c9bb73703d2c2ce1424659b680f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Research Software}
+      \field{number}{1}
+      \field{title}{Differentialequations.jl--a performant and feature-rich ecosystem for solving differential equations in julia}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{15}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
